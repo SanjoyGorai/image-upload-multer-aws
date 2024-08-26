@@ -1,0 +1,23 @@
+{
+  "name": "img-upload-multer-express-aws",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "",
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "aws-sdk": "^2.1682.0",
+    "express": "^4.19.2",
+    "multer": "^1.4.5-lts.1",
+    "mysql2": "^3.11.0",
+    "nanoid": "^5.0.7",
+    "nodemon": "^3.1.4",
+    "sequelize": "^6.37.3"
+  }
+}
